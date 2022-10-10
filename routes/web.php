@@ -45,8 +45,6 @@ Route::get('a', function()
         'title' => 'Taylor',
         'image' => '199.99',
     ]);
-//    dd($response->body());
-    dd($fakeResponse->body());
 
 });
 
